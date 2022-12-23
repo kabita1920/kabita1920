@@ -1,0 +1,17 @@
+- ASSIGNMENT 1
+    1. **What do you mean by BI? Explain**  
+    - Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes the data produced by a company’s activities.
+    2. **How Power-BI helps in BI, and how does it help Analysts? Explain.**
+    - Microsoft Power BI is used to find insights within an organization's data. Power BI can help connect disparate data sets, transform and clean the data into a data model and create charts or graphs to provide visuals of the data. All of this can be shared with other Power BI users within the organization.
+    3. **Explain Descriptive analytics?**
+    - Descriptive analytics is the process of parsing historical data to better understand the changes that have occurred in a business.
+    4. **Explain Predictive analytics?**
+    - Predictive analytics models are designed to assess historical data, discover patterns, observe trends, and use that information to predict future trends.
+    5. **Explain perspective analytics?**
+    - The process of using data to determine an optimal course of action.
+    6. **Write five real-life questions that PowerBi can solve.**
+    - Transforming unstructured data into structured data
+    - Data modelling to give an insightful reports and dashboards
+    - Creating an attractive dashboards to understand the solutions easily to the viewers.
+    - Using data from old reports
+    - Can solve in not Being Able To Determine Your Level Of Success.
