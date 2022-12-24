@@ -1,0 +1,65 @@
+- ASSIGNMENT 2
+    
+    1. Explain the advantages of Natural Queries in PowerBi with an example?
+    1. Ease of use: Natural queries allow users to ask questions about their data using natural language, which is easier for most people to understand than programming languages. This makes it easier for non-technical users to get insights from their data without having to learn a programming language.
+    2. Improved productivity: Natural queries can save time and improve productivity by allowing users to quickly get answers to their questions without having to write complex queries or wait for a technical expert to do it for them.
+    3. Enhanced collaboration: Natural queries can facilitate collaboration by allowing multiple users to ask questions about the data and get answers in real-time, without the need for a technical expert to be present.
+    Here is an example of a natural query in Power BI:
+    Suppose you have a dataset containing sales data for a retail store, and you want to know how much revenue the store generated in the past month. Using a natural query, you could simply ask "What was the revenue for the past month?" and Power BI would
+    2.  Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+    - In the Power BI Service architecture, the Web Front End (WFE) cluster is a group of servers that handle incoming requests for reports and dashboards from users. The WFE cluster is responsible for routing requests to the appropriate servers, such as the data gateway servers or the report server cluster, and for rendering and delivering the reports and dashboards to the users.
+    - The WFE cluster is an important part of the Power BI Service architecture, as it handles a large volume of incoming requests and ensures that users can access and interact with their reports and dashboards in a timely and efficient manner. The WFE cluster is designed to be highly scalable and able to handle a large number of concurrent users and requests.
+    - Overall, the WFE cluster is an important component of the Power BI Service architecture that is responsible for handling incoming requests for reports and dashboards and ensuring that users can access and interact with their data in a timely and efficient manner.
+   3. Explain Back End cluster from Power BI Service Architecture?
+    - In the Power BI Service architecture, the Back End cluster is a group of servers that handle the processing and storage of data and reports. The Back End cluster includes a number of different components, such as the data gateway servers, the report server cluster, and the storage servers.
+    - The data gateway servers in the Back End cluster are responsible for connecting to data sources and transferring data to and from the Power BI Service. The report server cluster is responsible for processing and rendering reports and dashboards, and the storage servers are responsible for storing and managing data and reports.
+    - The Back End cluster is an important part of the Power BI Service architecture, as it handles the processing and storage of data and reports and enables users to access and interact with their data in a timely and efficient manner. The Back End cluster is designed to be highly scalable and able to handle a large volume of data and requests.
+    - Overall, the Back End cluster is an important component of the Power BI Service architecture that is responsible for handling the processing and storage of data and reports and enabling users to access and interact with their data in a timely and efficient manner.
+    4. What ASP.NET component does in Power BI Service Architecture?
+    - [ASP.NET](http://asp.net/) is a web application framework developed by Microsoft that is used to build web applications and services. It provides a range of features and tools for building dynamic, interactive web applications and services, including support for server-side scripting, data access, and security.
+    - [ASP.NET](http://asp.net/) is used to build the web front-end of the service, which is the part of the service that users interact with when accessing and using reports and dashboards. The web front-end includes the user interface for the Power BI Service, as well as the underlying code and logic that handles incoming requests and communicates with the back-end servers.
+    - [ASP.NET](http://asp.net/) is an important component of the Power BI Service architecture that is responsible for building the web front-end of the service and enabling users to access and interact with their data in a fast, scalable, and secure manner.
+    5. Compare Microsoft Excel and PowerBi Desktop on the following features:
+        
+        Data import
+        
+        Data transformation
+        
+        Modeling
+        
+        Reporting
+        
+        Server Deployment
+        
+        Convert Models
+        
+        Cost
+        
+    - Data import: Both Excel and Power BI Desktop allow users to import data from various sources, such as databases, spreadsheets, and text files. However, Power BI Desktop provides a wider range of data connectors and allows users to connect to a wider range of data sources, such as cloud services and APIs
+    - Data transformation: Both Excel and Power BI Desktop provide tools for data transformation and cleansing, such as the ability to filter and sort data, merge and append data from multiple sources, and apply transformations and calculations. However, Power BI Desktop provides a more powerful and flexible set of tools for data transformation, including the ability to write custom transformations using the M formula language.
+    - Modeling: Both Excel and Power BI Desktop allow users to create data models and relationships between data tables. However, Power BI Desktop provides a more powerful and flexible set of tools for data modeling, including the ability to create calculated columns and measures, and to use advanced modeling techniques such as DAX (Data Analysis Expressions).
+    - Reporting: Both Excel and Power BI Desktop allow users to create reports and dashboards using data from their data models. However, Power BI Desktop provides a wider range of visualization options and allows users to create more sophisticated and interactive visualizations. It also provides features for sharing and collaborating on reports, such as the ability to publish reports to the web.
+    - Server deployment: Excel does not have a server deployment option, whereas Power BI Desktop allows users to publish reports and dashboards to the Power BI Service, a cloud-based service that allows users to access and collaborate on reports and dashboards from anywhere with an internet connection. Power BI also offers a on-premises version called Power BI Report Server, which allows organizations to host and publish reports and dashboards on their own servers.
+    - Convert models: Excel does not have a feature for converting models, whereas Power BI Desktop allows users to convert their data models to the Power BI Service or to Power BI Report Server.
+    - Cost: Microsoft Excel is a part of the Microsoft Office suite of productivity tools and is generally included with a Microsoft Office subscription. Power BI Desktop is a standalone application that is available for free, but it requires a separate subscription to the Power BI Service in order to publish and share reports and dashboards. Power BI also offers a premium version called Power BI Premium, which includes advanced features and capacity for larger organizations and is available for a higher cost.
+   6. List 20 data sources supported by Power Bi desktop.
+        1. Excel
+        2. CSV
+        3. Text
+        4. SQL Server
+        5. Access
+        6. Oracle
+        7. DB2
+        8. MySQL
+        9. PostgreSQL
+        10. SAP HANA
+        11. Teradata
+        12. Azure SQL Database
+        13. Azure SQL Data Warehouse
+        14. Azure Synapse Analytics
+        15. Azure Cosmos DB
+        16. Google Analytics
+        17. Salesforce
+        18. Adobe Analytics
+        19. Zendesk
+        20. Dynamics 365
