@@ -9,20 +9,21 @@
     6. Power BI Embedded: A set of APIs and tools that allow developers to embed Power BI reports and dashboards into their own applications.
     
     2. What limitations of Excel, Microsoft solved by PowerBi?
-    
     1. Data size: Excel is limited to handling large amounts of data, as it can only handle up to 1 million rows of data. Power BI, on the other hand, can handle much larger datasets, making it better suited for working with large volumes of data.
     2. Data visualization: Excel provides a limited set of charts and graphs for data visualization, whereas Power BI offers a wider range of visualization options and allows users to create more sophisticated and interactive visualizations.
     3. Data connectivity: Power BI allows users to connect to a wider range of data sources, including databases, cloud services, and APIs, whereas Excel is limited to working with data from spreadsheets and text files.
     4. Collaboration: Power BI provides features for collaboration and sharing, such as the ability to publish dashboards and reports to the web and collaborate on them with others. Excel does not have these types of collaboration features.
     
     3. Explain PowerQuery?
-    
     - Power Query is a feature in Microsoft Excel and Power BI that allows users to import, transform, and clean data from various sources. It provides a range of tools and features for data cleansing and transformation, such as the ability to filter and sort data, merge and append data from multiple sources, and apply transformations and calculations to data.
-    1. Explain PowerMap?
+    
+    4. Explain PowerMap?
     - Power Map is a data visualization tool in Microsoft Excel that allows users to create interactive 3D maps and visualizations of data. It allows users to plot data on a map and customize the appearance of the map, including the type of map, the data points, and the color scheme.
-    1. How powerBi eliminated the need to host SharePoint Server on premises?
+    
+    5. How powerBi eliminated the need to host SharePoint Server on premises?
     - One way in which Power BI has eliminated the need to host SharePoint Server on premises is by providing a cloud-based service that allows users to access and collaborate on reports and dashboards from anywhere with an internet connection. This eliminates the need for organizations to host and maintain their own SharePoint servers and infrastructure, which can be expensive and time-consuming.
-    1. Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+    
+    6. Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
     - Here are a few of the updates and improvements in Power BI 2.0:
     1. Enhanced data visualization: Power BI 2.0 includes a range of new visualization types and features, such as line and stacked column charts, scatter plots, and improved mapping capabilities. It also includes new formatting options and the ability to customize visualizations using custom themes and templates.
     2. Improved data connectivity: Power BI 2.0 includes new connectors for connecting to data from a wider range of sources, such as Azure Synapse Analytics, Google Analytics, and Salesforce. It also includes improved support for data integration and data modeling.
