@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kabita1920
 - 👀 I’m interested in cleaning data, analysing data and visualysing data
-- 🌱 I’m currently learning SQL,EXCEL and TABLEAU
+- 🌱 I’m currently learning SQL,EXCEL and POWERBI
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me khwairakpam.kabita@gmail.com
 
