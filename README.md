@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kabita1920
-- 👀 I’m interested in cleaning data, analysing data and visualysing data
-- 🌱 I’m currently learning SQL,EXCEL and POWERBI
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me khwairakpam.kabita@gmail.com
+# Analysis of Google Playstore Apps
+A data analysis and visualization project covering a real-world dataset of the Google Play store, one of the most used applications for downloading Android apps.
 
-<!---
-kabita1920/kabita1920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>This project aims for cleaning the dataset, analyze the given dataset, and mining informational quality insights. 
+
+>This project also involves visualizing the data to better and easily understand trends and different categories.
